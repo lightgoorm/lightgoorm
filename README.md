@@ -17,7 +17,7 @@ JavaScript, TypeScript, React, Next.js, ssr
 <h4> 코오롱 베니트 </h4>
 <p style="color: #878e98; font-size: 13px; text-align: left; line-height: 19px;">프론트엔드 파트 | IoT 사업팀</p>
 <p style="color: #878e98; font-size: 13px; text-align: left; line-height: 19px;">프론트엔드 파트 | IoT 사업팀</p>
-
+<span style="color:yellow">노란 글씨</span>
 
 
 
