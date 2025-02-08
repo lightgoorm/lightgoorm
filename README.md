@@ -1,11 +1,24 @@
 ###
 
-# 기술 아티클 
+### 기술 아티클 
 - [Vanilla Javascript로 React useState Hook 구성하기](https://www.google.com)
 - [Vanilla Javascript로 VertualDOM 구성하기](https://www.naver.com)
 - [Vanilla Javascript로 상태 관리 시스템 구성하기](https://www.daum.net)
 - [Vanilla Javascript로 웹 컴포넌트 만들기](https://www.daum.net)
 - [Vanilla Javascript로 SSR 따라해보기](https://www.daum.net)
+
+
+
+### 기술 스택
+JavaScript, TypeScript, React, Next.js, ssr
+
+<h3>경력</h3> 
+
+<h5> 코오롱 베니트 </h5>
+<p style=" color: #878e98; font-size: 13px; text-align: start; line-height: 19px;">프론트엔드 파트 | IoT 사업팀</p>
+
+#### 코오롱베니트 
+
 
 
 
