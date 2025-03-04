@@ -1,7 +1,7 @@
 ###
 
 ### 기술 아티클 
-- [모노레포 도입기 Feat. 디자인 시스템 실습 ](https://ineedbentely.tistory.com/12)
+- [모노레포 도입기 Feat. 디자인 시스템 실습 ](https://ineedbentely.tistory.com/13)
 - [모노레포 도입기](https://ineedbentely.tistory.com/12)
 - [Vanilla Javascript로 React useState Hook 구성하기](https://www.google.com)
 - [Vanilla Javascript로 VertualDOM 구성하기](https://www.naver.com)
