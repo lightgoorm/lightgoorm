@@ -16,10 +16,11 @@
 JavaScript, TypeScript, React, Next.js, ssr, Vue
 
 <h3>경력</h3> 
-<h4> 코오롱 베니트 ( 2021.01 ~ ) <p style="color: #878e98; font-size: 13px; text-align: left; line-height: 19px;">웹 프론트엔드 개발자  | IoT 사업팀 </p></h4>
+<span style="color: #878e98; font-size: 13px; text-align: left; line-height: 19px;">웹 프론트엔드 개발자  | 솔루션 사업팀 (코오롱베니트 2021.04 ~ ) </span>
 
 ###
-<h3> <풀스택 서비스 개발> </h3>
+###
+<h3> 풀스택 서비스 개발 </h3>
 <h4>1. 백오피스 / 공통 디자인 시스템 개발 </h4>
 
 <p> - VueJS, JavaScript</p>
