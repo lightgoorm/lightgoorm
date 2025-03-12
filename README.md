@@ -16,15 +16,36 @@
 JavaScript, TypeScript, React, Next.js, ssr, Vue
 
 <h3>경력</h3> 
-<h4> 코오롱 베니트 ( 2021.01 ~ )</h4>
-<p style="color: #878e98; font-size: 13px; text-align: left; line-height: 19px;">웹 프론트엔드 개발자  | IoT 사업팀 </p>
+<h4> 코오롱 베니트 ( 2021.01 ~ ) <p style="color: #878e98; font-size: 13px; text-align: left; line-height: 19px;">웹 프론트엔드 개발자  | IoT 사업팀 </p></h4>
 
 ###
 <h3> <풀스택 서비스 개발> </h3>
-<p>1) 백엔드 개발 및 운영(Java + SpringBoot + SpringBatch + Ehcache + 인수테스트 + RestTemplate + Jenkins)</p>
-<p>2) 프론트엔드 개발 및 운영(Typescript + NodeJS + NestJS + VueJS + SSR)</p>
-<p>3) 무중단 배포 (k8s + docker + nginx + cloudfront + jenkins)</p>
+<h4>1. 백오피스 / 공통 디자인 시스템 개발 </h4>
 
+<p> - VueJS, JavaScript</p>
+<p> - Websoket 기반 실시간 인터렉션</p>
+
+<h4>2. 크로스플랫폼 웹뷰 서비스 개발/운영</h4>
+
+<p> - Typescript, React.Js, Next.JS</p>
+<p> - Monorepo, nx, yarn berry(pnp)</p>
+
+<h4>3. 프론트엔드 Kubernetes 구성 및 CI/CD 파이프라인 구축</h4>
+
+<p> - K8S, Docker, Nginx</p>
+<p> - CloudFront, Jenkins</p>
+
+<h4>4. 백엔드 개발 및 운영</h4>
+
+<p> - Java, SpringBoot, SpringBatch, Spring Webflux</p>
+<p> - Jenkins, MongoDB, PostgreSql, RedisDB</p>
+
+<h4>5. MSA 아키텍처 개발</h4>
+
+<p>  - AWS API Gateway, AWS Cloud Map, ECS Service Discovery</p>
+<p>  - AmazonMQ (ActiveMQ) </p>
+<p>  - ELK Stack, CloudWatch</p>
+<p>  - TraceID, Pinpoint</p>
 
 
 <div align="center">
