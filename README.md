@@ -33,7 +33,7 @@ JavaScript, TypeScript, React, Next.js, ssr, Vue
 
 <h4>3. 프론트엔드 Kubernetes 구성 및 CI/CD 파이프라인 구축</h4>
 
-<p> - K8S, Docker, Nginx</p>
+<p> - K8S, EKS, Docker, Nginx</p>
 <p> - CloudFront, Jenkins</p>
 
 <h4>4. 백엔드 개발 및 운영</h4>
