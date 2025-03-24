@@ -6,10 +6,8 @@
 - [모노레포 도입기](https://ineedbentely.tistory.com/12)
 - [Vanilla Javascript로 React useState Hook 구성하기](https://ineedbentely.tistory.com/14)
 - [Vanilla Javascript로 VertualDOM 구성하기](https://ineedbentely.tistory.com/16)
-- [Vanilla Javascript로 상태 관리 시스템 구성하기](https://www.daum.net)
-- [Vanilla Javascript로 웹 컴포넌트 만들기](https://www.daum.net)
 - [Vanilla Javascript로 SSR 따라해보기](https://www.daum.net)
-- [Cumstom JSON Class 제작기 - 1](https://ineedbentely.tistory.com/10)
+- [Cumstom JSON Class 제작기](https://ineedbentely.tistory.com/10)
 - [WebFlux 도입기](https://ineedbentely.tistory.com/8)
 
 ###
